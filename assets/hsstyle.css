@@ -1,0 +1,26 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+}
+
+#InitialsDisplay {
+    display: flex;
+    align-items: center;
+}
+
+
+#ScoresDisplay {
+    display: flex;
+    align-items: center;
+}
+
+.gobackbtn {
+    display: flex;
+    justify-content: center;
+    color: darkmagenta;
+    padding: 5px;
+    margin: 30px;
+}
